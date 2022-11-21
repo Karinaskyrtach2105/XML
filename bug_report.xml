@@ -1,1 +1,9 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <row>Login to ... as admin</row>
+    <row>Click on the +Create button</row>
+    <row>Click on the *** chekbox</row>
+    <Description>Steps to reproduce</Description>
+    <Actual result>text and text2 field are not disabled</Actual result>
+    <Expected result>text and text2 fields should be disabled</Expected result>
+</root>
