@@ -1,0 +1,4 @@
+FIO - Skyrtach Karina Viktorovna
+  age - 25
+  number of pets - 
+  future salary - 2000$
